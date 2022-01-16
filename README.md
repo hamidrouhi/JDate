@@ -1,2 +1,2 @@
 # JDate
-Jalali Date For Arduino (Persian Date)
+Julian datae to Jalali date For Arduino (Persian Date).

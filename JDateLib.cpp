@@ -158,7 +158,7 @@ int Date::JDay()
 		sDay = (1 + sD - ((sMonth - 1) * 31));
 	}
 
-	return  sMonth;
+	return  sDay;
 }
 int Date::JMonth()
 {
@@ -205,5 +205,5 @@ int Date::JMonth()
 		sDay = (1 + sD - ((sMonth - 1) * 31));
 	}
 
-	return  sDay;
+	return  sMonth;
 }
